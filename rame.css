@@ -1,0 +1,81 @@
+body.body1{
+background-color: rgba(0, 0, 255, 0.808);
+background-image: url(images/anime10\ \(4\).jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-family: 'Lato', sans-serif;
+font-family: 'Lobster', cursive;
+font-size: 36px;
+font-weight: bold;
+}
+
+           
+div.head1{
+  text-align: center; 
+  padding: 10px;
+  margin-top: 200px;
+ color: white;                           
+}
+
+div.coll1 ul li{
+ display: inline-block; 
+ list-style-type: none; 
+ padding: 10px;
+ margin-left: 20px;
+ background-color: white;
+}
+
+
+div.coll2 ul li{
+  display: inline-block; 
+  list-style-type: none; 
+  padding: 10px;
+  margin-left: 20px;
+ background-color: white;
+ }
+ 
+ div.mint1{
+ margin-top:100px;
+ color: white;
+ margin-bottom: 150px;
+ }
+
+ div.ac1{
+  float: right;   
+  padding-top: 10px;                          
+}
+
+.p11{
+  text-align: center;
+  padding: 10px;  
+  margin: 10px; 
+  color:blue;
+
+}
+
+
+      div.buy1{
+       height: 5px;
+       width: 5px;
+       box-shadow: inset;
+       margin-left: 50%;
+     margin-top: 5%;
+     }
+             div.about1{
+      background-color: white;
+      border-radius: 10px;
+      text-align: center;
+                                         }                              
+   div.fixed ul li{
+  margin-bottom: 20px;
+list-style-type:none;
+
+
+}
+    
+div.star{
+float: right;
+position:sticky;
+margin-bottom: 200px;
+}
+   
